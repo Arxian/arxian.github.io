@@ -67,6 +67,13 @@ Jay's Midrange Lyonar:
 [![Jay's Midrange Lyonar](https://decklyst.vercel.app/i/%5B%3AD%5DMTo2MCwyOjIwNDA0LDM6NjIsMzoxMTIwMywyOjExMjIyLDM6MTEyNDUsMzoyMDQwNSwzOjIwNDA5LDM6NjQsMjoxMTE2MiwyOjc0LDM6MjA0MTUsMzozMDEwMywyOjcwLDE6MTExNzEsMjoyMDQxMywyOjcy.png)](https://decklyst.vercel.app/decks/uuC)
 (Note: Jay says he would cut Circle of Life if Spirit Harvester were nerfed.)
 
+## Heal Lyonar
+
+Healyonar is a tempo deck hinging on Lyonar's excellent healing cards and their synergies, particularly Sunriser. The usual suspects, Windblade Adept and Silverguard Knight, provide an excellent early game backbone, with Lightchaser offering a bulky body for a 2 drop with potential to scale out of control if not answered quickly. Sunriser gives even more crushing board control than Lyonar usually has, punishing your opponent for healing themselves as well as triggering off your own cards.
+
+Meziljie's Healyonar, remixed by CrankyPanda:
+[![Meziljie Healyonar](https://decklyst.vercel.app/i/MTo2MCwzOjIwNDA0LDM6NjIsMzo2OCwxOjExMTY5LDM6MTEyNDUsMzoyMDQwNSwzOjIwNDA5LDM6NjQsMzo3NCwxOjExMTgxLDM6MTEyNTksMzoyMDQxNSwxOjIwNDIwLDI6NzAsMToxMTIyNCwxOjExMjU4LDI6MTEyMjE%3D.png)](https://decklyst.vercel.app/i/MTo2MCwzOjIwNDA0LDM6NjIsMzo2OCwxOjExMTY5LDM6MTEyNDUsMzoyMDQwNSwzOjIwNDA5LDM6NjQsMzo3NCwxOjExMTgxLDM6MTEyNTksMzoyMDQxNSwxOjIwNDIwLDI6NzAsMToxMTIyNCwxOjExMjU4LDI6MTEyMjE%3D.png)
+
 ## Fatigue Lyonar
 
 Jay says: "Fatigue Lyonar is a deck focused on making it to super late game through removal recursion [copying spells] and healing. They often don't even run some of the best/tempo heavy cards such as Silverguard Knight, instead running Alcuin [Loremaster] and Aerial Rift/Keeper of the Vale for more Martyrdom recursion/heal recursion."
@@ -79,7 +86,7 @@ Fatigue list attributed to Solafid, but I'm not sure:
 
 # Magmar
 
-Magmar has historically been considered the strongest faction, although by sequential small nerfs its overall power level has fallen enough that some people consider it only 4th best. On the other hand, Magmar decks tend to be overbearing and frequently unfun to play against. Honourable mention not broken down here because I couldn't get a recent list for it: [Navy Seagull's Maggro](decklyst.vercel.app/decks/4rK)
+Magmar has historically been considered the strongest faction, although by sequential small nerfs its overall power level has fallen enough that some people consider it only 4th best. On the other hand, Magmar decks tend to be overbearing and frequently unfun to play against.
 
 ## Midrange Magmar
 
@@ -90,7 +97,9 @@ Jay's Midrange Magmar:
 
 ## Twin Fang Combo Magmar
 
-The Twin Fang combo is straightforward: You play Twin Fang, self-damage ramp cards, and in some lists, Artifact Hunter. As soon as your board or a Kujata survives, you can play Twin Fang to immediately trigger its effect multiple times and deal immense damage to face. Mogwai will copy attack from your general as well, assuming your opponent survives the first hit.
+The Twin Fang combo is straightforward: You play Twin Fang, self-damage ramp cards, and in some lists, Artifact Hunter. As soon as your board or a Kujata survives, you can play Twin Fang to immediately trigger its effect multiple times and deal immense damage to face. 
+
+An alternate list that leans harder into the combo is included as well. Keeper of the Vale and Mogwai allow you to generate extra value from it, but make the deck substantially harder to pilot.
 
 CrankyPanda's Tempo Twin Fang:
 [![Cranky's Tempo Twin Fang](https://decklyst.vercel.app/i/MTo0NTksMzoyMDQ3NiwzOjExMjcyLDM6NDY3LDM6NDcwLDM6MTExNjksMzoxMTIwMywzOjExMjQ1LDM6MTEyMTIsMzoxMTI1MSwzOjMwMTE0LDM6NDY1LDE6MTEyMDksMjoxMTIyNiwzOjQ2Mw%3D%3D.png)](https://decklyst.vercel.app/decks/PKM)
@@ -144,6 +153,8 @@ Blatm's Wall Vanar:
 ## Tree Vanar
 
 "Tree" is Ancient Grove. The ability to create a large board creates powerful turns with Razorback, bogs your opponent down with 1/1 Treants after Grove comes down, and also offers strong Lady Locke turns. Prophet of the White Palm protects those boards from spell-based clears, particularly Lyonar's Tempest and Holy Immolation.
+
+CrankyPanda says about Tree Vanar and Deer Vanar (see next entry): "you can also go 3x Deer [Voice of the Wind] 3x Tree [Ancient Grove] 0x keeper [of the Vale] and maybe that's better vs. Mag. Jax [Truesight] helps vs. vet, abyss matchups. I even like it vs. Lyo when ur playing with prophet [of the White Palm]. closes games faster but no glacial [Elemental] synergy."
 
 Jay's Tree Vanar:
 [![Jay's Tree Vanar](https://decklyst.vercel.app/i/%5B%20%5DMTo1NjgsMzoxMTI3MiwzOjU4MywxOjExMjAzLDM6MTEyNDUsMzoxMTI3MywzOjExMjc4LDI6MjA0OTQsMzoyMDUwNSwzOjU2OSwzOjExMjUxLDI6MzAxMTYsMzo1NzksMjoxMTI1OSwxOjExMjI0LDI6MTEyMjgsMjo1ODA%3D.png)](https://decklyst.vercel.app/decks/5Cc)
