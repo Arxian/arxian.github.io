@@ -7,41 +7,41 @@ categories:
 
 # Introduction
 
-As the inaugural "Meta According to Discord" post, I've tried to represent every significant archetype of every faction in this list. Future posts may have fewer entries if the decks haven't changed, and just link back to older posts -- I'm not quite sure. The whole project is a complete work in progress, since I started it practically on a whim.
+As the inaugural "Meta According to [Discord](https://www.discord.gg/duelyst)" post, I've tried to represent every significant archetype of every faction in this list. Future posts may have fewer entries if the decks haven't changed, and just link back to older posts -- I'm not quite sure. The whole project is a complete work in progress, since I started it practically on a whim.
 
-I am by no means an authority on the game, which is why I've tried as far as possible to get input from top players on the decks, and none of these decks are my own! Many thanks to the people who have contributed: Jay, crankypanda, [ImprobableBlob](twitch.tv/improbableblobtft), [DJFlaisch](https://www.twitch.tv/djflaisch), EurasianJay, Pixizz, ZyX, and all the others who built the decks in the first place even if I didn't get a comment from them directly for this post!
+I am by no means an authority on the game, which is why I've tried as far as possible to get input from top players on the decks, and none of these decks are my own! Many thanks to the people who have contributed: Jay, crankypanda, [ImprobableBlob](https://www.twitch.tv/improbableblobtft), [DJFlaisch](https://www.twitch.tv/djflaisch), EurasianJay, Pixizz, ZyX, and all the others who built the decks in the first place even if I didn't get a comment from them directly for this post!
 
 If you have any disagreements with this list, think a deck/archetype is missing, or otherwise have any comments, I suggest pinging me (Arx#2415) on the [official Duelyst 2 Discord](https://www.discord.gg/duelyst), or sending me a direct message. I'll take any feedback, although for obvious reasons before acting on it I'll try to reach some kind of consensus or at least have it affirmed by one of my arbitrarily-chosen top players.
 
-Deck images are from, and link to lists on, the excellent site [Decklyst](decklyst.vercel.app).
+Deck images are from, and link to lists on, the excellent site [Decklyst](https://decklyst.vercel.app).
 
 # Table of Contents
 
 1. [Abyssian](#abyssian)
-  1. [Creep](#creep)
-  2. [Fast Cass](#fast-cass)
-  3. [Sarlac](#sarlac-swarm)
-  4. [Swarm](#swarm-abyss)
+    1. [Creep](#creep)
+    2. [Fast Cass](#fast-cass)
+    3. [Sarlac](#sarlac-swarm)
+    4. [Swarm](#swarm-abyss)
 2. [Lyonar](#lyonar)
-  1. [Midrange](#midrange-lyonar)
-  2. [Healyonar](#heal-lyonar)
-  3. [Fatigue](#fatigue-lyonar)
+    1. [Midrange](#midrange-lyonar)
+    2. [Healyonar](#heal-lyonar)
+    3. [Fatigue](#fatigue-lyonar)
 3. [Magmar](#magmar)
-  1. [Midrange](#midrange-magmar)
-  2. [Twin Fang](#twin-fang-combo-magmar)
-  3. [Control](#control-magmar)
+    1. [Midrange](#midrange-magmar)
+    2. [Twin Fang](#twin-fang-combo-magmar)
+    3. [Control](#control-magmar)
 4. [Songhai](#songhai)
-  1. [Spellhai](#spellhai)
-    1. [Arcanysts](#arcanyst-spellhai)
-  2. [Minionhai](#minionhai)
+    1. [Spellhai](#spellhai)
+        1. [Arcanysts](#arcanyst-spellhai)
+    2. [Minionhai](#minionhai)
 5. [Vanar](#vanar)
-  1. [Walls](#wall-vanar)
-  2. [Tree](#tree-vanar)
-  3. [Deer](#deer-vanar)
+    1. [Walls](#wall-vanar)
+    2. [Tree](#tree-vanar)
+    3. [Deer](#deer-vanar)
 6. Vetruvian(#vetruvian)
-  1. [Mech](#mech-vetruvian)
-  2. [Obelysk](#obelysk-vetruvian)
-  3. [Artefacts](#artifact-vetruvian)
+    1. [Mech](#mech-vetruvian)
+    2. [Obelysk](#obelysk-vetruvian)
+    3. [Artefacts](#artifact-vetruvian)
 
 # Abyssian
 
