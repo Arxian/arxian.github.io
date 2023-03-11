@@ -38,7 +38,7 @@ Deck images are from, and link to lists on, the excellent site [Decklyst](https:
     1. [Walls](#wall-vanar)
     2. [Tree](#tree-vanar)
     3. [Deer](#deer-vanar)
-6. Vetruvian(#vetruvian)
+6. [Vetruvian](#vetruvian)
     1. [Mech](#mech-vetruvian)
     2. [Obelysk](#obelysk-vetruvian)
     3. [Artefacts](#artifact-vetruvian)
