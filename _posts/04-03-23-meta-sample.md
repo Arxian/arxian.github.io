@@ -11,7 +11,7 @@ As the inaugural "Meta According to Discord" post, I've tried to represent every
 
 I am by no means an authority on the game, which is why I've tried as far as possible to get input from top players on the decks, and none of these decks are my own! Many thanks to the people who have contributed: Jay, crankypanda, [ImprobableBlob](twitch.tv/improbableblobtft), [DJFlaisch](https://www.twitch.tv/djflaisch), EurasianJay, Pixizz, ZyX, and all the others who built the decks in the first place even if I didn't get a comment from them directly for this post!
 
-If you have any disagreements with this list, think a deck/archetype is missing, or otherwise have any comments, I suggest pinging me (Arx#2415) on the [official Duelyst 2 Discord](discord.gg/duelyst), or sending me a direct message. I'll take any feedback, although for obvious reasons before acting on it I'll try to reach some kind of consensus or at least have it affirmed by one of my arbitrarily-chosen top players.
+If you have any disagreements with this list, think a deck/archetype is missing, or otherwise have any comments, I suggest pinging me (Arx#2415) on the [official Duelyst 2 Discord](https://www.discord.gg/duelyst), or sending me a direct message. I'll take any feedback, although for obvious reasons before acting on it I'll try to reach some kind of consensus or at least have it affirmed by one of my arbitrarily-chosen top players.
 
 Deck images are from, and link to lists on, the excellent site [Decklyst](decklyst.vercel.app).
 
