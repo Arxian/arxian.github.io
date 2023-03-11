@@ -92,18 +92,18 @@ Jay's Midrange Magmar:
 
 The Twin Fang combo is straightforward: You play Twin Fang, self-damage ramp cards, and in some lists, Artifact Hunter. As soon as your board or a Kujata survives, you can play Twin Fang to immediately trigger its effect multiple times and deal immense damage to face. Mogwai will copy attack from your general as well, assuming your opponent survives the first hit.
 
-This Twin Fang list leans less into the Kujata angle, but many decks will run cards such as Mirkblood Devourer and Lady Locke to support playing many low-cost cards to activate the Kujata - Twin Fang combo.
+CrankyPanda's Tempo Twin Fang:
+[![Cranky's Tempo Twin Fang](https://decklyst.vercel.app/i/MTo0NTksMzoyMDQ3NiwzOjExMjcyLDM6NDY3LDM6NDcwLDM6MTExNjksMzoxMTIwMywzOjExMjQ1LDM6MTEyMTIsMzoxMTI1MSwzOjMwMTE0LDM6NDY1LDE6MTEyMDksMjoxMTIyNiwzOjQ2Mw%3D%3D.png)](https://decklyst.vercel.app/decks/PKM)
 
-Jay's Keeper Twin Fang:
-[![Jay's Keeper Twin Fang](https://decklyst.vercel.app/i/%5BJay%20keeper%5DMTo0NzYsMzoyMDQ3NiwzOjQ2NywxOjExMjE3LDM6MTEyNDUsMzoyMDQ4NywyOjQ3NSwxOjExMjY0LDM6MzAxMTQsMjo0NjUsMjoxMTIwOSwzOjExMjU5LDM6MTEyNzQsMjoyMDQ4OSwzOjQ3MywyOjExMjI0LDM6NDYz.png)](https://decklyst.vercel.app/decks/KuX)
+(Alternative, less tempo list: [Jay's Keeper Twin Fang](https://decklyst.vercel.app/decks/KuX))
 
 
 ## Control Magmar
 
 Control Magmar wants to make use of Magmar's excellent board control cards, like Spirit Harvester, Makantor Warbeast, and Metamorphosis, to stay far enough ahead for long enough to get a payoff from big drops like Silithar Elder.
 
-Jay's Control Magmar:
-[![Jay's Control Magmar](https://decklyst.vercel.app/i/%5B%20%5DMTo0NTksMzoyMDQ3NiwxOjIwNDgwLDM6NDcwLDM6MTEyMDMsMjoxMTIxNywzOjExMjQ1LDI6MjA0ODcsMzo0NzUsMjo0NzEsMzoxMTI1OSwxOjExMjc0LDM6NDczLDI6MjA0ODQsMzo0NjMsMzoxMTI0OCwyOjQ3Mg%3D%3D.png)](https://decklyst.vercel.app/decks/Chp)
+Zezetel's Control Magmar:
+[![Zezetel's Control Magmar](https://decklyst.vercel.app/i/%5Bmag%5DMTo0NTksMzoyMDQ3NiwzOjIwNDgwLDM6NDcwLDM6MTEyMDMsMToxMTIyMiwzOjExMjQ1LDM6MjA0ODcsMTo0NzUsMzozMDExNCwzOjQ2NSwzOjQ3MSwzOjQ3MywyOjIwNDg0LDM6NDYzLDI6NDcy.png)](https://decklyst.vercel.app/decks/fCe)
 
 # Songhai 
 
@@ -118,9 +118,10 @@ Jay's Spellhai:
 
 ### Arcanyst Spellhai 
 
-Including this as a subtype of Spellhai that runs Owlbeast Sage as well, offering a bit of board presence and an alternate highroll win condition. I'm not sure whose deck this is, unfortunately!
+Including this as a subtype of Spellhai that runs Owlbeast Sage as well, offering a bit of board presence and an alternate highroll win condition. 
 
-[![Arcanyst Hai](https://decklyst.vercel.app/i/%5Barc1%5DMToxNjEsMzoyMDQyOCwzOjIwNDI5LDM6MjA0MzQsMzoyMDQyMSwzOjE2OSwzOjE3NSwzOjExMTc3LDE6MjA0MjIsMzoyMDQyMywzOjE3NiwyOjIwNDM4LDM6MTcwLDM6MTExODAsMzoyMDQzNg%3D%3D.png)](https://decklyst.vercel.app/decks/HLE)
+EurasianJay's Arcanyst Spellhai
+[![EurasianJay's Arcanyst Hai](https://decklyst.vercel.app/i/%5Barc1%5DMToxNjEsMzoyMDQyOCwzOjIwNDI5LDM6MjA0MzQsMzoyMDQyMSwzOjE2OSwzOjE3NSwzOjExMTc3LDE6MjA0MjIsMzoyMDQyMywzOjE3NiwyOjIwNDM4LDM6MTcwLDM6MTExODAsMzoyMDQzNg%3D%3D.png)](https://decklyst.vercel.app/decks/HLE)
 
 ## Minionhai
 
