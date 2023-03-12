@@ -9,11 +9,15 @@ categories:
 
 As the inaugural "Meta According to [Discord](https://www.discord.gg/duelyst)" post, I've tried to represent every significant archetype of every faction in this list. Future posts may have fewer entries if the decks haven't changed, and just link back to older posts -- I'm not quite sure. The whole project is a complete work in progress, since I started it practically on a whim.
 
-I am by no means an authority on the game, which is why I've tried as far as possible to get input from top players on the decks, and none of these decks are my own! Many thanks to the people who have contributed: Jay, crankypanda, [ImprobableBlob](https://www.twitch.tv/improbableblobtft), [DJFlaisch](https://www.twitch.tv/djflaisch), EurasianJay, Pixizz, ZyX, and all the others who built the decks in the first place even if I didn't get a comment from them directly for this post!
+I am by no means an authority on the game, which is why I've tried as far as possible to get input from top players on the decks, and none of these decks are my own! Many thanks to the people who have contributed: Jay, crankypanda, [ImprobableBlob](https://www.twitch.tv/improbableblobtft), [DJFlaisch](https://www.twitch.tv/djflaisch), EurasianJay, Pixizz, ZyX, Blatm, [Smarty](https://www.twitch.tv/smarteay), Navy Seagull and all the others who built the decks in the first place even if I didn't get a comment from them directly for this post!
 
 If you have any disagreements with this list, think a deck/archetype is missing, or otherwise have any comments, I suggest pinging me (Arx#2415) on the [official Duelyst 2 Discord](https://www.discord.gg/duelyst), or sending me a direct message. I'll take any feedback, although for obvious reasons before acting on it I'll try to reach some kind of consensus or at least have it affirmed by one of my arbitrarily-chosen top players.
 
 Deck images are from, and link to lists on, the excellent site [Decklyst](https://decklyst.vercel.app).
+
+## Update 12-03-23:
+
+Thanks to Blatm for confirming Solafid's Fatigue list, correcting a misconception I had in its playstyle, and informing me that the Minionhai decklist is no longer very good! Thanks to Smarty for providing me with a Blatmhai list and a blurb for it.
 
 # Table of Contents
 
@@ -33,7 +37,8 @@ Deck images are from, and link to lists on, the excellent site [Decklyst](https:
 4. [Songhai](#songhai)
     1. [Spellhai](#spellhai)
         1. [Arcanysts](#arcanyst-spellhai)
-    2. [Minionhai](#minionhai)
+    2. [Blatm Midrange](#blatm-midrange)
+    3. [Minionhai (Outdated)](#minionhai-outdated)
 5. [Vanar](#vanar)
     1. [Walls](#wall-vanar)
     2. [Tree](#tree-vanar)
@@ -107,9 +112,9 @@ Meziljie's Healyonar, remixed by CrankyPanda:
 
 Jay says: "Fatigue Lyonar is a deck focused on making it to super late game through removal recursion [copying spells] and healing. They often don't even run some of the best/tempo heavy cards such as Silverguard Knight, instead running Alcuin [Loremaster] and Aerial Rift/Keeper of the Vale for more Martyrdom recursion/heal recursion."
 
-Fatigue usually lacks a specific win condition, instead relying on the opponent simply running out of threats before you run out of ways to remove them. Because you play fewer cards per turn, you draw fewer cards overall, making you less likely to deck out. As game length goes to infinity, Arclyte Regalia gains infinite value as your opponent becomes unable to remove it. 
+Fatigue usually lacks a specific win condition, instead relying on the opponent simply running out of threats before you run out of ways to remove them. As game length goes to infinity, Arclyte Regalia gains infinite value as your opponent becomes unable to remove it. 
 
-Fatigue list attributed to Solafid, but I'm not sure:
+Fatigue list attributed to Solafid, but I'm not sure: (Update: It is Solafid's, thanks Blatm!)
 [![Solafid's Fatigue Lyonar](https://decklyst.vercel.app/i/%5BSolafid%20Fatigue%5DMTo2MCwzOjIwNDA0LDM6MjA0MTgsMzo2MiwzOjExMjIyLDM6MTEyNDUsMzoyMDQwNSwzOjIwNDA5LDM6MTExNzksMzoxMTE4MSwzOjExMjU5LDM6MzAxMDMsMzoxMTE3MSwzOjIwNDEz.png)](https://decklyst.vercel.app/decks/rU2)
 (Note: Fatigue lists have a lot of flexibility outside of the core spell recursion elements, as they don't rely on any specific other synergies.)
 
@@ -161,9 +166,22 @@ Including this as a subtype of Spellhai that runs Owlbeast Sage as well, offerin
 EurasianJay's Arcanyst Spellhai
 [![EurasianJay's Arcanyst Hai](https://decklyst.vercel.app/i/%5Barc1%5DMToxNjEsMzoyMDQyOCwzOjIwNDI5LDM6MjA0MzQsMzoyMDQyMSwzOjE2OSwzOjE3NSwzOjExMTc3LDE6MjA0MjIsMzoyMDQyMywzOjE3NiwyOjIwNDM4LDM6MTcwLDM6MTExODAsMzoyMDQzNg%3D%3D.png)](https://decklyst.vercel.app/decks/HLE)
 
-## Minionhai
+## Blatm Midrange
 
-Named in contrast to Spellhai, Minionhai... plays minions that don't just interact with spells. The iconic addition is Hamon Bladeseeker, which with its phenomenal stats can win games by itself. Sword of Mechazor with Inner Focus is a mini-Makantor Warbeast, and with Killing Edge as well it's a mega-Makantor.
+Blatm Midrange/Blatmhai/Blatm Midhai is a midrange Songhai list named for its creator, Blatm.
+
+Smarty (nominated by Blatm as the best person to describe it) says: "Blatmhai uses Songhai's tools to gain a lead in the early game with Tusk Boar and Heartseeker alongside a suite of strong neutrals to apply consistent pressure. Other Songhai decks can struggle in the late-game, but this deck can use Ancestral Divination to refill and has more healing options, while still able to produce the ridiculous burst turns that define the faction."
+
+Blatm's Midhai:
+[![Blatmhai](https://decklyst.vercel.app/i/%5BBlatm%20Midhai%5DMToxNzcsMzoyMDQyOSwzOjIwNDM0LDM6MTYyLDM6MjA0MjEsMzoyMDQzMywzOjE2NCwzOjE3NSwzOjExMjAzLDM6MTEyNDUsMjoyMDQzOCwyOjExMjA3LDM6MTEyNTksMzoxMTIyNCwyOjIwNDI3.png)](https://decklyst.vercel.app/decks/d9U)
+
+## Minionhai (Outdated)
+
+**UPDATE**: Blatm and Smarty informed me that this list is outdated and if you want to play midrange/with minions, you should play Blatmhai instead. I'm leaving this here because it was there when I published the list and I don't want to [bamboozle](https://duelyst.fandom.com/wiki/Bamboozle) people, but **it is not recommended any more**. 
+
+Named in contrast to Spellhai, Minionhai... plays minions that don't just interact with spells. The iconic addition is Hamon Bladeseeker*, which with its phenomenal stats can win games by itself. Sword of Mechazor with Inner Focus is a mini-Makantor Warbeast, and with Killing Edge as well it's a mega-Makantor.
+
+\* Smarty says "Hamon is less good against magmar now that letting them stick a board means you instantly lose, and that [Hamon] was one of the main selling points"
 
 Smarty's Minionhai:
 [![Smarty's Minionhai](https://decklyst.vercel.app/i/%5BMinionhai%5DMToxNjEsMzoyMDQyOSwzOjIwNDM0LDM6MTYyLDM6MjA0MjEsMzoxNzUsMzoxMTIwMywyOjExMjQ1LDI6MjA0MjMsMzoxNzYsMzoxMTE4OCwxOjIwNDMwLDM6MjA0MzgsMzoxNzQsMzoxNzMsMToyMDQyNw%3D%3D.png)](https://decklyst.vercel.app/decks/qAM)
