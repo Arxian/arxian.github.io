@@ -56,7 +56,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-analytics
 
 author:
   name   : "Arx"
@@ -106,8 +105,8 @@ tag_archive:
   type: liquid
   path: /tags/
 
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: G-GHNPZY4B4W          # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
-
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-GHNPZY4B4W"
+    anonymize_ip: false # default
