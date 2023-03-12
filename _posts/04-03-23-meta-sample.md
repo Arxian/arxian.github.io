@@ -3,6 +3,7 @@ title: "The Meta According to Discord: Week of 6 March 2023"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
+toc: true
 ---
 
 # Introduction
