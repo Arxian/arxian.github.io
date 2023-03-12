@@ -20,35 +20,6 @@ Deck images are from, and link to lists on, the excellent site [Decklyst](https:
 
 Thanks to Blatm for confirming Solafid's Fatigue list, correcting a misconception I had in its playstyle, and informing me that the Minionhai decklist is no longer very good! Thanks to Smarty for providing me with a Blatmhai list and a blurb for it.
 
-# Table of Contents
-
-1. [Abyssian](#abyssian)
-    1. [Creep](#creep)
-    2. [Fast Cass](#fast-cass)
-    3. [Sarlac](#sarlac-swarm)
-    4. [Swarm](#swarm-abyss)
-2. [Lyonar](#lyonar)
-    1. [Midrange](#midrange-lyonar)
-    2. [Healyonar](#heal-lyonar)
-    3. [Fatigue](#fatigue-lyonar)
-3. [Magmar](#magmar)
-    1. [Midrange](#midrange-magmar)
-    2. [Twin Fang](#twin-fang-combo-magmar)
-    3. [Control](#control-magmar)
-4. [Songhai](#songhai)
-    1. [Spellhai](#spellhai)
-        1. [Arcanysts](#arcanyst-spellhai)
-    2. [Blatm Midrange](#blatm-midrange)
-    3. [Minionhai (Outdated)](#minionhai-outdated)
-5. [Vanar](#vanar)
-    1. [Walls](#wall-vanar)
-    2. [Tree](#tree-vanar)
-    3. [Deer](#deer-vanar)
-6. [Vetruvian](#vetruvian)
-    1. [Mech](#mech-vetruvian)
-    2. [Obelysk](#obelysk-vetruvian)
-    3. [Artefacts](#artifact-vetruvian)
-
 # Abyssian
 
 Abyssian is broadly considered the 5th most powerful faction in the current meta. That doesn't mean the faction is unplayable by any means, but its decks aren't considered the most powerful in the game.
