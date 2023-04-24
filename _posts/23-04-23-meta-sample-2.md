@@ -1,5 +1,5 @@
 ---
-title: "DRAFT RELEASE: The Meta According to Discord: Week of 23 April 2023"
+title: "The Meta According to Discord: Week of 24 April 2023"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -11,9 +11,9 @@ last_modified_at: 2023-04-24T11:00:00+02:00
 
 Welcome to the *heavily* delayed April meta sample. The release of gauntlet and the somewhat uninspiring nature of the patch means that sources were less thick on the ground for decks, and the addition of the start of Team Wars 2 (hosted by [Harpu](https://www.twitch.tv/batista_harpu), check out the TW Discord here: https://discord.gg/XznGhYTUxZ) meant that some of the people who contributed last time were keeping decks in reserve to try to keep the edge on the competition.
 
-Thanks to Jay and EurasianJay for their input.
+Thanks to Jay, EurasianJay, Dragall and the deckbuilders themselves for their input.
 
-This list is shorter than last season's -- most of the decks from last season can still be played unless they clearly built around a changed card. Please refer back to that for more details.
+This list is shorter than [last season's](http://duelyst.arxile.co.za/blog/meta-sample) -- most of the decks from last season can still be played unless they clearly built around a changed card. Please refer back to that for more details.
 
 # Abyssian
 
@@ -59,7 +59,7 @@ Overall, Mag is generally considered a mid-tier faction at this point.
 
 ## Midrange Magmar
 
-About this specific version of the deck, Jay says: "I typically always like to have 1 more [Silithar] Elder than what's standard in midrange/control mag (ATM no one runs it that I've seen) just to make sure I never lose late game and can relax/not feel rushed in mirrors. Imo bloodtear [Alchemist] is a staple 1-of minimum in mag cuz it's so good and I don't feel running more than 1 is that needed (plus I have plenty of 2's). The one [Dream]gazer could prob be a lot of things but I rly like the option to tempo tf out of my opp some games with free units, and it's very useful even late game so it being a 1-of isn't even inconsistent. Cuz at any point in the game [Lady] Locke+[Dream]gazer is just op. And because of both space AND I want to be extra safe (the self hurt can matter if you do it too often), I felt 1 was perfect. [Dancing Blades] could honestly be a ton of things but I think [Dancing Blades] is super good in these types of mag decks cuz it's very hard to play around it. Bloodtear also kinda same as gazer in the sense it's super good in mag at any point in the game so it's never rly inconsistent. But you also don't want to overclog your hand with utility."
+About this specific version of the deck, Jay says: "I typically always like to have 1 more Silithar Elder than what's standard in midrange/control mag (ATM no one runs it that I've seen) just to make sure I never lose late game and can relax/not feel rushed in mirrors. IMO Bloodtear Alchemist is a staple 1-of minimum in Mag because it's so good and I don't feel running more than 1 is that needed (plus the deck has plenty of 2 mana plays). The one Dreamgazer could probably be a lot of things but I really like the option to tempo the [fiddlesticks] out of my opp some games with free units, and it's very useful even late game so it being a 1-of isn't even inconsistent. At any point in the game Lady Locke + Dreamgazer is just OP. And because of both space AND wanting to be extra safe (the self hurt can matter if you do it too often), I felt 1 was perfect. Dancing Blades could honestly be a ton of things but I think Dancing Blades is super good in these types of Mag decks because it's very hard to play around it. Bloodtear is also kinda the same as Dreamgazer in the sense that it's super good in Mag at any point in the game so it's never really inconsistent. But you also don't want to overclog your hand with utility."
 
 Jay's Midrange Magmar:
 [![Jay's Midrange Magmar](https://decklyst.vercel.app/i/%5BJay%20xd%20Mag%5DMTo0NzYsMzoyMDQ3NiwzOjQ2NCwzOjQ3MCwyOjExMTY5LDE6MTEyMTcsMzoxMTI0NSwxOjExMjc4LDI6MjA0ODcsMjo0NzUsMzoxMTI1MSwzOjQ3MSwzOjExMjU5LDM6NDczLDE6MTEyMjQsMjoyMDQ4NCwzOjQ2MywxOjQ3Mg%3D%3D.png)](https://decklyst.vercel.app/decks/PJz)
@@ -93,7 +93,7 @@ Vanar received a near-crippling nerf to Glacial Elemental ("When you summon a Ve
 
 This is a pretty standard Vanar's Vanar deck. Araki Headhunter and friends provide a powerful opening, Fenrir Warmaster is still sticky tempo, and Jax Truesight with Prophet of the White Palm and Razorback is still deadly.
 
-Jay says (when asked about the 1-of tech cards): "Well, the one Primus [Fist] is mainly cuz I still like my philosophy of 16 2 drops to always keep Fenrir [Warmaster] in mull (counting [Dream]gazer as one here too), and I think 2 rust [Crawler] is too needed. So only rly have space for one Primus [Fist]. The one [Emerald] rejuv[enator] is mainly just a bit of extra safety, cuz this deck is extremely good against anything so just some security that I win vs all the aggro cheesers helps. I don't rly like more than 1 though cuz I rly don't wanna see it often, [Emerald] rejuv[enator] is kinda not great in tempo vanar decks. And I used to run 2 [Ancient] grove over the [Emerald] rejuv[enator], but after the [Ancient] grove change I found it's not as safe  and the meta also sped up so 7 mana is also not as reliable. But having 3 late game cards, one being good vs mag/lyo is still nice to have. Oh, and I forgot I run 1 snow piercer lmao. That was mostly just a hard to find deck space thing, I rly want 2 cuz lyo is the best ATM and it's super good vs them and mag. Plus having burst in vanar is nice. But I rly don't want to cut anything else. Also partly why I liked the rejuv in there too cuz with piercer it feels more needed to have a tiny bit more heal."
+Jay says (when asked about the 1-of tech cards): "Well, the one Primus Fist is mainly because I still like my philosophy of 16 2 drops to always keep Fenrir Warmaster in the mulligan (counting Dreamgazer as one here too), and I think 2 Rust Crawler is too needed. So you only really have space for one Primus Fist. The one Emerald Rejuvenator is mainly just a bit of extra safety, because this deck is extremely good against anything so just some security that I win vs. all the aggro cheesers helps. I don't really like more than 1 though because I really don't wanna see it often, Emerald Rejuvenator is kinda not great in tempo vanar decks. And I used to run 2 Ancient Grove over the Emerald Rejuvenator, but after the Ancient Grove change I found it's not as safe and the meta also sped up so 7 mana is not as reliable. But having 3 late game cards, one being good vs Mag/Lyo is still nice to have. Oh, and I forgot I run 1 Snowpiercer. That was mostly just a hard to find deck space thing, I really want 2 because Lyo is the best ATM and it's super good vs. them and Mag, plus having burst in vanar is nice. But I really don't want to cut anything else. Also partly why I liked the Emerald Rejuvenator in there too because with Snowpiercer it feels more needed to have a tiny bit more heal."
 
 Jay's Midrange Vanar:
 [![Jay's Midrange Vanar](https://decklyst.vercel.app/i/%5B%201st%20place%20Jay%20Vanar%5DMTo1NjgsMjoyMDQ5NSwyOjExMjcyLDM6NTgzLDE6MTEyMDMsMjoxMTIyMiwzOjExMjQ1LDM6MTEyNzMsMjoxMTI3OCwyOjIwNDk0LDM6MjA1MDUsMzo1NjksMzoxMTI1MSwxOjMwMTE2LDM6NTc5LDE6MTEyNTksMjoxMTIyNCwyOjExMjI4LDE6NTgw.png)](https://decklyst.vercel.app/decks/Hjd)
@@ -121,3 +121,18 @@ Zoo Vetruvian, like Zoo Magmar, wants to develop a large board and maintain an a
 
 TopDeckTimmy's Zoo Vetruvian:
 [![TopDeckTimmy's Zoo Vetruvian](https://decklyst.vercel.app/i/%5Bi%20pity%20the%20zoo%5DMToyNjQsMjoyMDQ0MCwzOjExMjcyLDM6MjA0NDgsMzoyNjksMjoxMTE2OSwzOjExMjAzLDM6MTEyNDUsMzoxMTI3MywzOjExMjc4LDM6MjA0NDEsMzoyNzgsMzoxMTI0NiwzOjExMjUxLDI6MTEyMDg%3D.png)](https://decklyst.vercel.app/decks/NWf)
+
+## Dragall Vetruvian
+
+A deck that defies categorisation so much that everyone just calls it Dragall Vet after its creator and best known pilot, Dragall. 
+
+EurasianJay says "it's a Vetruvian goodstuff deck that's highly adaptive, can pivot to aggro or longer games and rewards player positioning without compromising on minion quality and falling trap to getting clearly countered by specific factions due to how it just plays a generalist "good" plan."
+
+Dragall says: "The deck was designed to mimic my Songhai deck in 1Draw. Early board control and multi-varied threats followed by a finisher (which used to be Zendo/Spiral) and is now a bunch of low damage spells used simultaneously. Vetruvian decks have been very one-dimensional in purpose in D2, confined to linear win conditions like arti-vet, obelysk vet or zoo vet, so I just wanted to capitalize on the few unique capacities which vet have which are high tempo play + dispel on the same turn, as well as enough threat types that it is impossible to play around everything."
+
+Jay says: "Because of all the small pings/damage cards such as boneswarm/rasha/tiger/fury/bloodtear he constantly clears the board, and things such as Jax aren't even that good a lot of times. Plus while running all these cards, you innately threaten to kill the opp when it comes to that time."
+
+Deciding whether it's a tempo deck, an "anti-tempo deck", a zoo deck, a combo deck, or a control deck is left as an exercise for the reader. What it *is* though is apparently one of the strongest Vetruvian decks in the current meta.
+
+Dragall's Vetruvian:
+[![Dragall's Vetruvian](https://decklyst.vercel.app/i/MToyNjQsMzoyMDQ0MCwzOjIwNDQ4LDM6MTEyMDMsMzoxMTIxNywzOjExMjQ1LDM6MjA0NDksMzoyMDQ1MSwzOjIwNDU0LDM6Mjc4LDM6MTExNjIsMjoyNjUsMToyMDQ0MSwyOjI2NiwxOjIwNDUzLDI6Mjc3LDE6MjA0Mzk%3D.png)](https://decklyst.vercel.app/decks/YeA)
