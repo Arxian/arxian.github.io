@@ -17,7 +17,7 @@ This list is shorter than [last season's](http://duelyst.arxile.co.za/blog/meta-
 
 # Abyssian
 
-The nerf to Nightsorrow Assassin (3 mana 3/1 **Opening Gambit**: Destroy a nearby minion with 3 or less attack -> 3 mana 3/3 **Opening Gambit**: Destroy a nearby damaged minion) makes it a substantially weaker reactive tool in the early game, requiring something like a Bloodtear Alchemist to activate it. It does perform better in the late game, but it's a blow to the early game. Similarly the nerf to Spectral Blade (When your General destroys a minion, heal your General for 2 -> When your General destroys a minion, heal your General for 1) makes it weaker as an early control tool. Both cards are still run, but neither is as powerful.
+The rework of Nightsorrow Assassin (3 mana 3/1 **Opening Gambit**: Destroy a nearby minion with 3 or less attack -> 3 mana 3/3 **Opening Gambit**: Destroy a nearby damaged minion) makes it a substantially weaker reactive tool in the early game, requiring something like a Bloodtear Alchemist to activate it. It does perform better in the late game, but it's a blow to the early game. Similarly the nerf to Spectral Blade (When your General destroys a minion, heal your General for 2 -> When your General destroys a minion, heal your General for 1) makes it weaker as an early control tool. Both cards are still run, but neither is as powerful.
 
 With the nerfs and minimal compensation, Abyssian is generally considered the 5th best faction right now, just above Vetruvian, or possibly the 4th best above Vanar.
 
@@ -29,9 +29,13 @@ The deck looks very much the same as it did last patch, with adaptation to the n
 Jay's Creep Abyssian:
 [![Jay's Creep Abyssian](https://decklyst.vercel.app/i/%5BJay%20Creep%5DMTozODAsMTozNjUsMzoyMDQ2MSwxOjIwNDY5LDM6MTExNjksMjoxMTIwMywzOjExMjE3LDM6MTEyNDUsMzoxMTI3MywzOjIwNDU4LDM6MzAxMTIsMzozNzYsMToxMTIwOSwyOjExMjU5LDE6MjA0NjMsMToxMTIyNCwzOjM3NywzOjIwNDYw.png)](https://decklyst.vercel.app/decks/7UA)
 
-## Aggro Abyssian
+## Aggro/Burn Abyssian
 
-A deck that didn't quite make the list last season, aggro Abyssian plays exactly like it sounds: you hit the face as hard as you can as often as you can. I think.
+A deck that didn't quite make the list last season.
+
+Niklaren says: "A lot of people seem to like Abyssian, & the aggro tools it has. But it is surely in a worse spot than the prior patch due to a rise in Lyonar and Nightsorrow Assassin being worse in that matchup now, no longer deleting Sunrisers, Silverguards & Ironcliffes. Moreover, the change in general hurts the tempo of the deck as you now have to spend precious damage and actions hitting certain minions that would have died previously. Sadly, in my testing Nightsorrow Assassin still seemed to be necessary to not just roll over to certain minions. The Spectral Blade nerf doesn't hurt too much though, as 1 or 2 lost HP rarely matters for a quick deck that will also use the charges to go face.
+
+There's also a variant running Firespitter/Shadow Reflection/Saberspine Tiger/Blood Siren, though I prefer a more rounded deck. The neutral minions can contest board and face in the early game, while Void Pulse, Dark Seed & Spectral Revenant remain reliable enough ways to end a game with direct damage."
 
 Niklaren's ResultsMaehVary Aggro Abyssian:
 [![Niklaren's Aggro Abyssian](https://decklyst.vercel.app/i/%5BResultsMaehVary%5DMTozODEsMzoyMDQ2MSwzOjIwNDY5LDM6MTEyMDMsMzoxMTIxNiwzOjExMjE3LDM6MTEyNDUsMzoxMTI3MywzOjIwNDU4LDM6MzAxMTIsMzozNzYsMzoxMTI1OSwzOjIwNDY4LDM6Mzc3.png)](https://decklyst.vercel.app/decks/pfm)
